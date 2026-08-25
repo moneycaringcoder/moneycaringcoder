@@ -8,6 +8,7 @@ amateur developer turned professional prompter
 - [gitstream-tui](https://github.com/moneycaringcoder/gitstream-tui) — live GitHub activity feed TUI
 - [homebrew-tap](https://github.com/moneycaringcoder/homebrew-tap) — Homebrew tap for personal releases
 - [scoop-bucket](https://github.com/moneycaringcoder/scoop-bucket) — Scoop bucket for personal releases
+- [trmnl-bambulab](https://github.com/moneycaringcoder/trmnl-bambulab) — Bambu Lab printer status on a TRMNL e-paper display
 - [tuikit-go](https://github.com/moneycaringcoder/tuikit-go) — small TUI library for Go
 
 `~/public/herdr`
