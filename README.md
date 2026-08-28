@@ -14,3 +14,12 @@ amateur developer turned professional prompter
 - [herdr-shear](https://github.com/moneycaringcoder/herdr-shear) — safe worktree cleanup for Herdr
 - [herdr-standup](https://github.com/moneycaringcoder/herdr-standup) — workspace activity digests for Herdr
 - [herdr-tether](https://github.com/moneycaringcoder/herdr-tether) — keep terminal workloads running after their view closes
+
+`~/public/archive`
+
+- [cryptstream-tui](https://github.com/moneycaringcoder/cryptstream-tui) — Live cryptocurrency ticker TUI — real-time Binance WebSocket stream
+- [gitstream-tui](https://github.com/moneycaringcoder/gitstream-tui) — Live GitHub activity feed TUI — watch repo events in your terminal
+- [herdr-agent-icons](https://github.com/moneycaringcoder/herdr-agent-icons) — A minimal Herdr plugin that gives the sidebar recognizable monochrome harness marks for Claude, Codex, OpenCode, and OMP without taking over Herdr lifecycle state.
+- [homebrew-tap](https://github.com/moneycaringcoder/homebrew-tap) — Homebrew tap for personal releases
+- [scoop-bucket](https://github.com/moneycaringcoder/scoop-bucket) — Scoop bucket for personal releases
+- [tuikit-go](https://github.com/moneycaringcoder/tuikit-go) — Simple and optimized TUI library for Go.
